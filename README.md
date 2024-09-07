@@ -1,2 +1,4 @@
-# Dart-cookbook-main
-DART was the first-ever mission dedicated to investigating and demonstrating one method of asteroid deflection by changing an asteroid's motion in space through kinetic impact.
+## Dart-cookbook-main
+Dart is a client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, 
+paired with a flexible execution runtime platform for app frameworks.
+
