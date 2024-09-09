@@ -3,7 +3,7 @@ Dart is a client-optimized language for developing fast apps on any platform. It
 paired with a flexible execution runtime platform for app frameworks. Cook Book is a multi-platform culinary application that brings together the best recipes from around the world, 
 powered by an advanced tech stack. Whether you're a beginner or a seasoned chef, this app is your go-to guide for creating mouthwatering dishes. Developed using a diverse range of 
 languages and technologies, this project showcases the seamless integration of cutting-edge tools for an exceptional cooking experience.
- 
+
 🌟 Key Features: 
 
             * 🍲 Vast Recipe Collection: Explore a wide variety of recipes from different cuisines, with detailed instructions and ingredient lists.
